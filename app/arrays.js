@@ -106,9 +106,6 @@ exports.arraysAnswers = {
             }
         }
         return resp;
-
-
-
     },
 
     square: function(arr) {
